@@ -73,8 +73,6 @@ GenzAI is a full-stack MERN application that transforms text prompts into images
 - **Download**: Save images locally using the download button.
 
 ## Badges
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# GenzAI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-green)](https://nodejs.org/)
